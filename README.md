@@ -2,7 +2,9 @@
 
 Fix My Text is a Raycast extension for revising short pieces of text with a local OpenAI-compatible model.
 
-<img src="media/search.png" alt="Fix My Text in the Raycast search bar" width="600" />
+<p align="center">
+  <img src="media/search.png" alt="Fix My Text in the Raycast search bar" width="600" />
+</p>
 
 It is meant for the small edits that interrupt normal work: fixing grammar, making a note clearer, tightening a message, or shifting tone before pasting it somewhere else.
 
